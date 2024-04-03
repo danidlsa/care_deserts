@@ -162,3 +162,9 @@ cython_debug/
 data/
 
 cache/
+análisis por tipo de pob/pobreza_shape/pobreza_shape.cpg
+análisis por tipo de pob/pobreza_shape/pobreza_shape.dbf
+análisis por tipo de pob/pobreza_shape/pobreza_shape.prj
+análisis por tipo de pob/pobreza_shape/pobreza_shape.shp
+análisis por tipo de pob/pobreza_shape/pobreza_shape.shx
+Checking nearest neighbors methodologies.ipynb
